@@ -1,6 +1,6 @@
 # ocr-pdf
 
-In this repo we have scripts to process pdf files using OCR (Optical Character Recognition) for german language characters.  The goal is to process a PDF (one where you can't select the text), 
+In this repo we have scripts to process pdf files using OCR (Optical Character Recognition) for german language characters.  The goal is to process a PDF -one where you can't select the text-, 
 and obtain a text file with the contents of the pdf.
 
 It is mainly based on this post https://www.geeksforgeeks.org/python-reading-contents-of-pdf-using-ocr-optical-character-recognition/
